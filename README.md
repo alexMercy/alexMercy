@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋🏻 Hi there! I'm Alex
 
-<!--
-**alexMercy/alexMercy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :suspect: Frontend developer
+* 💻 3+ years of commercial development experience
+* <details>
+  <summary>🔧 Technology Stack</summary>
 
-Here are some ideas to get you started:
+  ### Languages
+  * TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Frameworks 
+  * React, Angular (with signals too), Vue
+
+  ### State managment and api store works
+  * React-Query, Angular-query, Zustand, Tanstack Store, RTK, NgRx 
+
+  ### Front Architectures
+  * FSD, Modules (Angular), SOLID, OOP
+
+  ### Forms
+  * Formik, React Hook Form, Yup, Antd Forms
+
+  ### Testing
+  * Jest, React Testing Library, Vitest
+
+  ### UI kits
+  * MUI, AntD, Prime (NG, React, Vue)
+
+  ### Animations
+  * Framer motion
+
+  ### Works with specifications
+  * Swagger and api generators 
+
+  ### Monorepo
+  * Turborepo
+
+  ### Web communication techniques and protocols
+  * REST API, WebSockets, Long Polling
+    
+  ### Build tool
+  * Vite
+  </details>
+
+### 🔬 Projects:
+- [Swagger nest generator](https://github.com/alexMercy/nest9-swagger-codegen) - customizable code generator for NestJS by swagger specification;
+
+- [Storage](https://github.com/alexMercy/storage) - [Site deploy](https://alexmercy-pet-storage.vercel.app/) - Pet project for the implementation of the cloud storage explorer. AccessAbility, explorer system, antd forms experiment
